@@ -7,10 +7,7 @@ import java.time.Duration;
 
 
 public class AvgExecutionTime {
-
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
             ArrayList<String> line = new ArrayList<String>();
         try{
