@@ -28,10 +28,10 @@ public class CalcError {
 
             for(String i : line){
                 if(i.contains("error:")){
-                    count1 ++;
+                    count1++;
                 }    
                 if(i.contains("error: This association")){
-                    count2 ++;
+                    count2++;
                 }  
             }
 
