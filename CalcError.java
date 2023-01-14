@@ -6,9 +6,6 @@ import java.util.ArrayList;
 
 public class CalcError {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
             ArrayList<String> line = new ArrayList<String>();
         try{
