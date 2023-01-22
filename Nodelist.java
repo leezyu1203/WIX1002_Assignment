@@ -16,7 +16,7 @@ import javafx.scene.layout.VBox;
 import javafx.scene.text.Font;
 import javafx.stage.Stage;
  
-public class Q3 extends Application {
+public class Nodelist extends Application{
  
     private TableView<Person> table = new TableView<Person>();
     private final ObservableList<Person> data =
@@ -27,12 +27,12 @@ public class Q3 extends Application {
             new Person("cpu05" ,362),
             new Person("cpu07" ,327),
             new Person("cpu08",235),
-            new Person("cpu09" ,403),
-            new Person("cpu10" ,418),
+            new Person("cpu09" ,404),
+            new Person("cpu10" ,428),
             new Person("cpu11" ,632),
-            new Person("cpu12" ,1059),
-            new Person("cpu13" ,841),
-            new Person("cpu14" ,445),
+            new Person("cpu12" ,1859),
+            new Person("cpu13" ,942),
+            new Person("cpu14" ,546),
             new Person("cpu15" ,697),
             new Person("gpu01" ,222),
             new Person("gpu02" ,640),
